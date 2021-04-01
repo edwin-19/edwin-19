@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I can speak and read some japanese, communication level but not very fluent
 - 📫 How to reach me: Email, or [Here](https://github.com/edwin-19/edwin-19/issues)
 
+![](https://komarev.com/ghpvc/?username=edwin-19&color=green)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwin-19)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **edwin-19/edwin-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
