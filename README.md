@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Edwin Cheong 
 ![](https://komarev.com/ghpvc/?username=edwin-19&color=green)
 - Residing in Malaysia
-- Looking for opportunities overseas
 - 🔭 I'm currently working on NLP, Deep Learning, Machine Learning, MLOps, Computer Vision and Sound Recognition
 - 🌱 I’m currently learning data structures, deep learning, tensorflow and pytorch, triton inference server, web async for python, NLP, CV and Sound
 - 💬 Ask me about machine learning in general
