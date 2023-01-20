@@ -7,6 +7,10 @@
 - ⚡ Fun fact: I can speak and read some japanese, communication level but not very fluent
 - 📫 How to reach me: Email, or [Here](https://github.com/edwin-19/edwin-19/issues)
 
+### Things I code with
+![Pytorch Ligthning](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwin-19)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
