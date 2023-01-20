@@ -11,9 +11,9 @@
 ![Pytorch Ligthning](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwin-19)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwin-19&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-19&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **edwin-19/edwin-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
