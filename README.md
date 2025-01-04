@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Edwin Cheong 
 ![](https://komarev.com/ghpvc/?username=edwin-19&color=green)
 - Residing in Malaysia
-- 🔭 I'm currently working on NLP, Deep Learning, Machine Learning, MLOps, Computer Vision and Sound Recognition
+- 🔭 I'm currently working on NLP, Deep Learning, Machine Learning, MLOps, Computer Vision, ASR / TTS, LLM, Visual LLMs, OCR / Document AI
 - 🌱 I’m currently learning Torch Optimisations, LLM, VLLMs
 - 💬 Ask me about machine learning in general
 - ⚡ Fun fact: I can speak and read write in japanese
