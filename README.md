@@ -18,8 +18,9 @@
 ### Latest Research Areas
 - Transformers
 - Deep Learning
-- MultiModal
+- MultiModal (i.e Vision, Text and Sound Combined)
 - Document Based AI
+- LLM / Visual LLMs 
 
 ### Coding Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwin-19&show_icons=true&theme=radical)
