@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Torch Optimisations, LLM, VLLMs
 - 💬 Ask me about machine learning in general
 - ⚡ Fun fact: I can speak and read write in japanese
-- 📫 How to reach me: Email, or [Here](https://github.com/edwin-19/edwin-19/issues)
+- 📫 How to reach me: Email, or [Here](https://github.com/edwin-19/edwin-19/issues), or [linkedin](https://www.linkedin.com/in/edwin-cheong-50366515a)
 - 👯 I’m looking to collaborate on deep learning / llm projects, hit me up if your interested
 
 ### Things I code with
