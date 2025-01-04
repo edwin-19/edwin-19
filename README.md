@@ -2,11 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=edwin-19&color=green)
 - Residing in Malaysia
 - 🔭 I'm currently working on NLP, Deep Learning, Machine Learning, MLOps, Computer Vision and Sound Recognition
-- 🌱 I’m currently learning data structures, deep learning, tensorflow and pytorch, triton inference server, web async for python, NLP, CV and Sound
+- 🌱 I’m currently learning Torch Optimisations, LLM, VLLMs
 - 💬 Ask me about machine learning in general
-- ⚡ Fun fact: I can speak and read some japanese, communication level but not very fluent
+- ⚡ Fun fact: I can speak and read write in japanese
 - 📫 How to reach me: Email, or [Here](https://github.com/edwin-19/edwin-19/issues)
-- 👯 I’m looking to collaborate on deep learning projects
+- 👯 I’m looking to collaborate on deep learning / llm projects, hit me up if your interested
 
 ### Things I code with
 ![Pytorch Ligthning](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
