@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=edwin-19&color=green)
 - Residing in Malaysia
 - 🔭 I'm currently working on NLP, Deep Learning, Machine Learning, Computer Vision, ASR / TTS, LLM, Visual LLMs, OCR / Document AI, Smol LLM, Multimodal LLMs, RAG / Visual RAG Pipelines
-- 🌱 I’m currently learning Torch Optimisations, LLM, VLLMs
+- 🌱 I’m currently learning Torch Optimisations, LLM, VLLMs, Speech LLMs
 - 💬 Ask me about machine learning in general
 - ⚡ Fun fact: I can speak and read write in japanese
 - 📫 How to reach me: Email, or [Here](https://github.com/edwin-19/edwin-19/issues), or [linkedin](https://www.linkedin.com/in/edwin-cheong-50366515a)
